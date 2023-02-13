@@ -38,10 +38,7 @@ After doing this, the Ranked data for the user you entered will be displayed.
 I am in the process of developing a GUI for this application to make the process a lot more streamline. 
 
 ## Contributing
-Pull requests are welcome.   
-or major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests are welcome. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
